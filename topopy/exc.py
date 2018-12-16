@@ -1,0 +1,2 @@
+class MessageFieldError(Exception):
+    pass
